@@ -1,0 +1,13 @@
+app.log
+__pycache__/
+*.pyc
+.env
+.DS_Store
+
+reddit_*.csv
+ai_detected_opportunities.csv
+problem_posts_dataset.csv
+reddit_dataset_final.csv
+reddit_dataset_progress.csv
+reddit_master_dataset.csv
+reddit_10k_posts.csv
